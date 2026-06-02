@@ -20,7 +20,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice/practice/neetcod
 | [Heap / Priority Queue](./Heap-Priority-Queue) | 5/7 | Kth Largest Element in a Stream, Last Stone Weight, K Closest Points to Origin, Kth Largest Element in an Array, Task Scheduler |
 | Tries | 0/3 | — |
 | Backtracking | 0/9 | — |
-| [Graphs](./Graphs) | 2/13 | Number of Islands, Max Area of Island, Clone Graph |
+| [Graphs](./Graphs) | 2/13 | Number of Islands, Max Area of Island, Clone Graph, Walls and Gates |
 | Advanced Graphs | 0/6 | — |
 | 1-D Dynamic Programming | 0/12 | — |
 | 2-D Dynamic Programming | 0/11 | — |
