@@ -2,7 +2,7 @@
 
 My solutions to the [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) problem set, written in Python. This is a pinned repo I actively update as I work through the roadmap.
 
-**82 / 150 solved**
+**83 / 150 solved**
 
 ---
 
@@ -22,7 +22,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice/practice/neetcod
 | Tries | 0/3 | — |
 | [Graphs](./Graphs) | 12/13 | Number of Islands, Max Area of Island, Clone Graph, Walls and Gates, Rotting Oranges, Pacific Atlantic Water Flow, Surrounded Regions, Course Schedule, Course Schedule II, Graph Valid Tree, Number of Connected Components in an Undirected Graph, Redundant Connection |
 | Advanced Graphs | 0/6 | — |
-| 1-D Dynamic Programming | 2/12 | Climbing Stairs, Min Cost Climbing Stairs |
+| 1-D Dynamic Programming | 3/12 | Climbing Stairs, Min Cost Climbing Stairs, House Robber |
 | 2-D Dynamic Programming | 0/11 | — |
 | Greedy | 0/8 | — |
 | Intervals | 0/6 | — |
